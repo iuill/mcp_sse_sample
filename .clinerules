@@ -1,0 +1,11 @@
+# セキュリティ
+
+## 機密ファイル
+
+以下のファイルの読み込み および 変更は禁止:
+
+- .env files
+- \*_/config/secrets._
+- \*_/_.pem
+- cline_mcp_settings.json
+- APIキー、クレディシャル、トークンを含むファイル
